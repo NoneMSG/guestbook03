@@ -15,7 +15,6 @@
 
 	<form action="${pageContext.servletContext.contextPath }/insert"
 		method="post">
-		<input type="hidden" name="a" value="add" />
 		<table border="1" width="500">
 			<tr>
 				<td>이름</td>
